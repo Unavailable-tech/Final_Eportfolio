@@ -16,7 +16,7 @@ const sourceSans = Source_Sans_3({
 })
 
 export const metadata: Metadata = {
-  title: "Alex Morgan - Creative Professional",
+  title: "Aishwaryavarshini - Eportfolio",
   description: "Discover my journey, achievements, and creative work in design and development",
   generator: "v0.app",
 }

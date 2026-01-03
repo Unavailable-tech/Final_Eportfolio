@@ -149,7 +149,7 @@ export default function ProfilePage() {
                   </Avatar>
                   <div className="text-center space-y-2">
                     <h3 className="font-serif text-2xl font-bold text-slate-900">Aishwaryavarshini J</h3>
-                    <p className="text-blue-600 font-medium">Electrical Engineer | AI & Software Explorer</p>
+                    <p className="text-blue-600 font-medium">Electrical Engineering Student | AI & Software Explorer</p>
                   </div>
                 </div>
               </div>
@@ -388,7 +388,7 @@ export default function ProfilePage() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-blue-600/10" />
                 <img
-                  src="/iitm-foundation-certificate.jpg"
+                  src="/iitm-foundation-certificate.png"
                   alt="IITM Foundation Certificate"
                   className="w-full h-48 object-cover opacity-20"
                 />
@@ -417,7 +417,7 @@ export default function ProfilePage() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-blue-600/10" />
                 <img
-                  src="/solar-energy-nptel-certificate.jpg"
+                  src="/solar-energy-nptel-certificate.png"
                   alt="Solar Energy Engineering Certificate"
                   className="w-full h-48 object-cover opacity-20"
                 />
