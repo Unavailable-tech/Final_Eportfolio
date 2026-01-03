@@ -388,7 +388,7 @@ export default function ProfilePage() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-blue-600/10" />
                 <img
-                  src="/iitm-foundation-certificate.png"
+                  src="/iitm-foundation-certificate.jpeg"
                   alt="IITM Foundation Certificate"
                   className="w-full h-48 object-cover opacity-20"
                 />
